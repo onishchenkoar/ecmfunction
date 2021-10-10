@@ -6,8 +6,8 @@
 
 # Содержание (в алфавитном порядке)
 
-||||
-|:---|:---|:---|:---|
+|||||
+|---|---|---|---|
 |<sub>[addMapListValue](./addMapListValue.md)</sub>|<sub>[getFilteredGenericDataEntryValue](./getFilteredGenericDataEntryValue.md)</sub>|<sub>[getSecurityFilteredSubcategories](./getSecurityFilteredSubcategories.md)</sub>|<sub>[longToDate](./longToDate.md)</sub>|
 |<sub>[addPageMessage](./addPageMessage.md)</sub>|<sub>[getFilteredGenericDataLabelValues](./getFilteredGenericDataLabelValues.md)</sub>|<sub>[getSecurityFilteredTypes](./getSecurityFilteredTypes.md)</sub>|<sub>[map](./map.md)</sub>|
 |<sub>[arrayToString](./arrayToString.md)</sub>|<sub>[getFilteredGenericDataTypeAheadItems](./getFilteredGenericDataTypeAheadItems.md)</sub>|<sub>[getSelectedDataGridItem](./getSelectedDataGridItem.md)</sub>|<sub>[matches](./matches.md)</sub>|
