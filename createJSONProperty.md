@@ -23,3 +23,6 @@ Returns a constructed JSON property (such as "empName" : "John Smith"). It ensur
 C_JSONProperty( 'ownerUserLongId', TEMP.USERID )
 ```
 
+
+
+[На главную](./ecmfunctions/)

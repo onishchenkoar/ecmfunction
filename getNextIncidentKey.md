@@ -19,3 +19,6 @@
 <param name="incidentKey" value="GetNextIncidentKey()" />
 ```
 
+
+
+[На главную](./ecmfunctions/)

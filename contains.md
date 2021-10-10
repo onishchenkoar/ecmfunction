@@ -25,3 +25,6 @@
 <set name="TEMP.containsRed" value="contains(TEMP.myList, 'Red')"/>
 ```
 
+
+
+[На главную](./ecmfunctions/)

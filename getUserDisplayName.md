@@ -22,3 +22,6 @@ String
      value="GetUserDisplayName(CASE.INVESTIGATOR_USER_ID)" />
 ```
 
+
+
+[На главную](./ecmfunctions/)

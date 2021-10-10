@@ -14,3 +14,6 @@ the original array or collection type.
 | --- | --- | --- | --- |
 | 1 | collection | Набор объектов, которые нужно отсортировать и вернуть. | `Collection`, `LabelValueBean[]`, `String[]`, `Comparable[]` |
 
+
+
+[На главную](./ecmfunctions/)

@@ -22,3 +22,6 @@ Returns a constructed XML text element. It ensures that the text is XML-escaped.
 C_XMLElement( 'incidentRk', INCIDENT.INCIDENT_RK )
 ```
 
+
+
+[На главную](./ecmfunctions/)

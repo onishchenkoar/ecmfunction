@@ -14,3 +14,6 @@ Takes a Date object and returns a string representation of the date's `getTime()
 | --- | --- | --- | --- |
 | 1 | date | a Date object | `Date` |
 
+
+
+[На главную](./ecmfunctions/)

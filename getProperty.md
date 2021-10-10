@@ -22,3 +22,6 @@
 <param name="rowTypeDescription" value="GetProperty('rowTypeDescription.account.txt')" />
 ```
 
+
+
+[На главную](./ecmfunctions/)

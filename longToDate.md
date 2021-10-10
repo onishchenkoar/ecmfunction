@@ -23,3 +23,6 @@
 <set name='TEMP.DATE' value='LongToDate(1000)'/>
 ```
 
+
+
+[На главную](./ecmfunctions/)

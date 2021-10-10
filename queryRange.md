@@ -39,3 +39,6 @@ implies
 PARTY.VERSION_NO <= 50
 ```
 
+
+
+[На главную](./ecmfunctions/)

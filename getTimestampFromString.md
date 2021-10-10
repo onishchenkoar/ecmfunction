@@ -23,3 +23,6 @@
      value="GetTimestampFromString(TEMP.EFILE.TRANSMISSION_DTTM, TEMP.DTTM_PATTERN)" />
 ```
 
+
+
+[На главную](./ecmfunctions/)

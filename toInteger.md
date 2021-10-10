@@ -29,3 +29,6 @@
 <set name="TEMP.INT_VALUE" value="toInteger(TEMP.STR_VALUE)" />
 ```
 
+
+
+[На главную](./ecmfunctions/)

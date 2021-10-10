@@ -23,3 +23,6 @@
 <set-value name="TEMP.DEBUG" value="GetRequestParam('debug')"/>
 ```
 
+
+
+[На главную](./ecmfunctions/)

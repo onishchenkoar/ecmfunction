@@ -21,3 +21,6 @@
 <param name="canTerminate" value="IsCapable('Terminate Case Workflow')" />
 ```
 
+
+
+[На главную](./ecmfunctions/)

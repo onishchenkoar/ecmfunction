@@ -31,3 +31,6 @@
 <set name="SOURCE_DESC" value="if(not empty(SOURCE_SYSTEM_CODE), SOURCE_SYSTEM_CODE, 'Record added manually')"/>
 ```
 
+
+
+[На главную](./ecmfunctions/)

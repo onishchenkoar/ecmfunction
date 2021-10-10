@@ -22,3 +22,6 @@
 <set-value name="X_PARTY_GEN_TABLE.ITEM_NAME" value="GetValueList('RT_ITEM_LIST')"/>
 ```
 
+
+
+[На главную](./ecmfunctions/)

@@ -21,3 +21,6 @@ Clears the DataStore of the named DataGrid. Useful in the `<initialize>` block o
 <set name="TEMP.DATA_STORE_FLUSHED" value="FlushGridDataStore('GRID_NAME')" />
 ```
 
+
+
+[На главную](./ecmfunctions/)

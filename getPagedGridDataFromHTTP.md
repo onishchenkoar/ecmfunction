@@ -25,3 +25,6 @@ Datagrid Data
 <datastore data="GetPagedGridDataFromHTTP('SASEntCaseManagement/api/paging/cases.json', 'CASE', 'TEMP.HTTP_TOTAL', concat('filter_id=', TEMP.X_ID))" id="REMOTE_STORE_HTTP"/>
 ```
 
+
+
+[На главную](./ecmfunctions/)

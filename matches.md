@@ -15,3 +15,6 @@ Boolean
 | 1 | string | Строка, набор строк, или массив строк. | `String`, `Collection`, or `String[]` |
 | 2 | regex | Регулярное выражение, которому должна соответствовать одна или несколько строк. Обратитесь к документации по Java за описанием `java.util.regex.Pattern#matches(String, CharSequence)` | `String` |
 
+
+
+[На главную](./ecmfunctions/)

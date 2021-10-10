@@ -22,3 +22,6 @@
 <set name="FUTURE_DATE" value="parseDate('01/01/2019', 'MM/dd/yyyy')"/>
 ```
 
+
+
+[На главную](./ecmfunctions/)

@@ -20,3 +20,6 @@
            value="GetUserId()" />
 ```
 
+
+
+[На главную](./ecmfunctions/)

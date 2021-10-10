@@ -25,3 +25,6 @@
 <set-visible name="location" test="eval('not (' + TEMP.locationReadOnly + ')')" />
 ```
 
+
+
+[На главную](./ecmfunctions/)

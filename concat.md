@@ -43,3 +43,6 @@
 <set name="TEMP.RESULT" value="concat(concat('ABC', 'DEF'), 'GHI')"/>
 ```
 
+
+
+[На главную](./ecmfunctions/)

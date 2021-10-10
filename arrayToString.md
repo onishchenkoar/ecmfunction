@@ -16,3 +16,6 @@ Takes an array and returns a comma-separated String representation.
 | 2 | substringStartIndex [Optional] | starting index to substring each string value | `Integer` |
 | 3 | substringEndIndex [Optional] | starting index to substring each string value | `Integer` |
 
+
+
+[На главную](./ecmfunctions/)

@@ -24,3 +24,6 @@
      value="GetStringFromDateOrTimestamp(EFILE.OUTPUT_CREATE_DTTM, TEMP.DTTM_PATTERN)" />
 ```
 
+
+
+[На главную](./ecmfunctions/)

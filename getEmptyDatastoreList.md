@@ -20,3 +20,6 @@ Creates an empty ListMap for use in cases when needing to initialize a datastore
 <datastore data="C_EVAL(TEMP.AA_ALERTS_EXPRESSION)" id="all_alerts_store"/>
 ```
 
+
+
+[На главную](./ecmfunctions/)

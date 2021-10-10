@@ -26,3 +26,6 @@ String
 </errmsg>
 ```
 
+
+
+[На главную](./ecmfunctions/)

@@ -20,3 +20,6 @@
 | 1 | efileKey | Поле efile\_rk. | `Long` |
 | 2 | destFieldName | Имя поля в е-файле. | `String` |
 
+
+
+[На главную](./ecmfunctions/)

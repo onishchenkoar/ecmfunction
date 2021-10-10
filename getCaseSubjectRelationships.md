@@ -18,3 +18,6 @@ Map<Long, List<com.sas.solutions.casemgmt.domain.EntityRelationshipEntity<com.sa
 | 1 | casePartyTableName | Имя компонента CasePartyTable в контексте. | `String` |
 | 2...n | filterCodeValue | Значения для кода, используемые для отбора возвращаемых типов отношений. Значения должны соответствовать значениям, заданным в настраиваемых таблицах поиска, которые передаются в компонент CasePartyTable в параметре 'relationship\_type\_table'. | `String` |
 
+
+
+[На главную](./ecmfunctions/)

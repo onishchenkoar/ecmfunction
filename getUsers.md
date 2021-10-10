@@ -20,3 +20,6 @@
 | 1 | entityType | Тип сущности, напр. `CASE`, `INCIDENT`, `PARTY` | `String` |
 | 2 | key | Первичный ключ сущности | `Long` |
 
+
+
+[На главную](./ecmfunctions/)

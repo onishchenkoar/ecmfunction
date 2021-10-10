@@ -21,3 +21,6 @@ Datagrid Data
 <datastore data="GetPagedGridDataFromSAS('remote_datastore_test', 'PARTY', 'TEMP.SAS_TOTAL', concat('filter_id=', TEMP.X_ID))" id="REMOTE_STORE_SAS"/>
 ```
 
+
+
+[На главную](./ecmfunctions/)

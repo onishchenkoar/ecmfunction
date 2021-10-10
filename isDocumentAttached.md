@@ -21,3 +21,6 @@
 <param name="hasAttachments" value="IsDocumentAttached()" />
 ```
 
+
+
+[На главную](./ecmfunctions/)

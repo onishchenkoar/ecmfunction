@@ -24,3 +24,6 @@ It ensures that the values are escaped for JSON.
 C_JSONArray( 'keys', GetSelectedRowKeys('MY_ALERTS_GRID') )
 ```
 
+
+
+[На главную](./ecmfunctions/)

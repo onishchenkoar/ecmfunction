@@ -21,3 +21,6 @@
 <param name="canTerminate" value="NOT IsMobile()" />
 ```
 
+
+
+[На главную](./ecmfunctions/)

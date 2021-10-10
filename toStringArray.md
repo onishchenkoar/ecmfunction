@@ -34,3 +34,6 @@ String Array
 <field name="x_sample_opt2" type="checkbox" default="toStringArray('2','4','5')">
 ```
 
+
+
+[На главную](./ecmfunctions/)

@@ -21,3 +21,6 @@ Boolean
 <param name="isReady" value="IsCurrentStatus('R')" />
 ```
 
+
+
+[На главную](./ecmfunctions/)

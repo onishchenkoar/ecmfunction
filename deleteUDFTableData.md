@@ -22,3 +22,6 @@ Boolean
 <set name="TEMP.FOUND" value="DeleteUDFTableData('X_PERSON.')"/>
 ```
 
+
+
+[На главную](./ecmfunctions/)

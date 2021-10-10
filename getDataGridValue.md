@@ -26,3 +26,6 @@
 <set-value name='TEMP.FIRST_PERSON' value='GetDataGridValue("CASE_PARTIES.GRID", 0, "PARTY.PARTY_FULL_NM")'/>
 ```
 
+
+
+[На главную](./ecmfunctions/)

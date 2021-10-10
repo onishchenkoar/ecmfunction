@@ -31,3 +31,8 @@
 <set-value name="TEMP.SELECTED_CASE_OWNER" value="GetSelectedDataGridItem('CASE.GRID', 'CASE.CASE_INVESTIGATOR_USER_ID')"/>
 ```
 
+
+
+[На главную](./ecmfunctions/)
+
+[На главную](./ecmfunctions/)

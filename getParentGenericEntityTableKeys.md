@@ -21,3 +21,6 @@
 <param name="rowData" value="GetReportParentSubjects(GetParentGenericEntityTableKeys('X_SUSPECT.X_PARTY_RK'))" />
 ```
 
+
+
+[На главную](./ecmfunctions/)

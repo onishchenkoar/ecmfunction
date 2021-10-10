@@ -36,3 +36,6 @@
 <set-value name="TEMP.ROW_COUNT" value="GetRowCount(null, 'caseParties.grid')"/>
 ```
 
+
+
+[На главную](./ecmfunctions/)

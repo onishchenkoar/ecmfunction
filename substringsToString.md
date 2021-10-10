@@ -14,3 +14,6 @@ String
 | --- | --- | --- | --- |
 | 1 | collectionOfStrings | Исходный набор строк, которые нужно конкатенировать | `Collection` |
 
+
+
+[На главную](./ecmfunctions/)

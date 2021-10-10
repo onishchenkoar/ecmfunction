@@ -43,3 +43,6 @@
 <set name="MESSAGE" value="concat(MESSAGE, ' stays mainly on the plain')"/>
 ```
 
+
+
+[На главную](./ecmfunctions/)

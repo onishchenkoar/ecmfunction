@@ -15,3 +15,6 @@ String
 | --- | --- | --- | --- |
 | 1 | key | Указывает ключ строки в файле properites. | String |
 
+
+
+[На главную](./ecmfunctions/)

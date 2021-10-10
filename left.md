@@ -26,3 +26,6 @@
 <set name="VARNAME" value="left(' Hello')"/>
 ```
 
+
+
+[На главную](./ecmfunctions/)

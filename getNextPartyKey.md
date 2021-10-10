@@ -19,3 +19,6 @@
 <param name="partyKey" value="GetNextPartyKey()" />
 ```
 
+
+
+[На главную](./ecmfunctions/)

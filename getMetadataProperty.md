@@ -23,3 +23,6 @@
 <param name="searchEnabled" value="GetMetadataProperty('ECM.Search.Enabled')" />
 ```
 
+
+
+[На главную](./ecmfunctions/)

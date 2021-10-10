@@ -24,3 +24,6 @@ Sets the value of a filed. Returns `true` if the new value is different from the
                 GetValueList('RT_ITEM_LIST'))"/>
 ```
 
+
+
+[На главную](./ecmfunctions/)

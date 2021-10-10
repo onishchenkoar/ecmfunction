@@ -22,3 +22,8 @@ String
 <set-value name="TEMP.FORMATTED_VALID_FROM_DTTM" value="GetSASNLFormattedDate(CASE.VALID_FROM_DTTM, 'NLDATE2')"/>
 ```
 
+
+
+[На главную](./ecmfunctions/)
+
+[На главную](./ecmfunctions/)

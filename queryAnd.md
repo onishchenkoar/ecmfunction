@@ -31,3 +31,6 @@ implies
 PARTY.PARTY_TYPE_CD='HDR' AND (PARTY.PARTY_CATEGORY_CD is not null AND PARTY.PARTY_SUBCATEGORY_CD is null).
 ```
 
+
+
+[На главную](./ecmfunctions/)
