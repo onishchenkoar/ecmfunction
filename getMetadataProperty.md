@@ -1,4 +1,4 @@
-#getMetadataProperty
+# getMetadataProperty
 
 ---
 

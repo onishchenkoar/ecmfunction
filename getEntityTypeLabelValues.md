@@ -1,4 +1,4 @@
-#getEntityTypeLabelValues
+# getEntityTypeLabelValues
 
 ---
 

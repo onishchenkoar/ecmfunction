@@ -1,4 +1,4 @@
-#getStringFromDateOrTimestamp
+# getStringFromDateOrTimestamp
 
 ---
 

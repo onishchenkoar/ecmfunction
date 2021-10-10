@@ -1,4 +1,4 @@
-#getUsersForTypeCatSubcat
+# getUsersForTypeCatSubcat
 
 ---
 

@@ -1,4 +1,4 @@
-#getNumberOfCheckboxSelections
+# getNumberOfCheckboxSelections
 
 ---
 

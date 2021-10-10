@@ -1,4 +1,4 @@
-#getFilteredGenericDataTypeAheadItems
+# getFilteredGenericDataTypeAheadItems
 
 ---
 

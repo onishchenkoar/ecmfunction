@@ -1,4 +1,4 @@
-#arrayToString
+# arrayToString
 
 ---
 

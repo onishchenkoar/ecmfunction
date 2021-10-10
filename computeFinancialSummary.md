@@ -1,4 +1,4 @@
-#computeFinancialSummary
+# computeFinancialSummary
 
 ---
 

@@ -1,4 +1,4 @@
-#isReportTypeOpenAlready
+# isReportTypeOpenAlready
 
 ---
 

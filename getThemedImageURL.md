@@ -1,4 +1,4 @@
-#getThemedImageURL
+# getThemedImageURL
 
 ---
 

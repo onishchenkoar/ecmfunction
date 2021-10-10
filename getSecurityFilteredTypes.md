@@ -1,4 +1,4 @@
-#getSecurityFilteredTypes
+# getSecurityFilteredTypes
 
 ---
 

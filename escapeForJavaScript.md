@@ -1,4 +1,4 @@
-#escapeForJavaScript
+# escapeForJavaScript
 
 ---
 
