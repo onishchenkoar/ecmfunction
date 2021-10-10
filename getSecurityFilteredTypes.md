@@ -12,12 +12,18 @@ Collection<LabelValueBean>
 
 |  | Имя аргумента | Описание | Тип значения |
 | --- | --- | --- | --- |
-| 1 | entityTypeName | Имя типа сущности. | String |
+| 1 | entityTypeName | Имя типа сущности. | `String` |
 
 ## Примеры
 
 ****Пример 1
 ```xml
-<field name="CASE.CASE_TYPE_CD" type="dropdown" values="GetSecurityFilteredTypes('CASE')"><label><message key="field.case.case_category_cd.label.txt" /></label></field>
+<field name="CASE.CASE_TYPE_CD"
+       type="dropdown"
+       values="GetSecurityFilteredTypes('CASE')">
+  <label>
+    <message key="field.case.case_category_cd.label.txt" />
+  </label>
+</field>
 ```
 

@@ -12,5 +12,5 @@
 
 |  | Имя аргумента | Описание | Тип значения |
 | --- | --- | --- | --- |
-| 1 | requestAttributeName | имя атрибута запроса | String |
+| 1 | requestAttributeName | имя атрибута запроса | `String` |
 

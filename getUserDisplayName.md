@@ -12,12 +12,13 @@ String
 
 |  | Имя аргумента | Описание | Тип значения |
 | --- | --- | --- | --- |
-| 1 | userID | ID пользователя, которого требуется преобразовать. | String |
+| 1 | userID | ID пользователя, которого требуется преобразовать. | `String` |
 
 ## Примеры
 
 **Пример 1:** В примере демонстрируется получение имя пользователя для ответственного за расследование по делу (Case Investigator).
 ```xml
-<set name="TEMP.CASE.INVESTIGATOR_USER_DISPLAY" value="GetUserDisplayName(CASE.INVESTIGATOR_USER_ID)" />
+<set name="TEMP.CASE.INVESTIGATOR_USER_DISPLAY"
+     value="GetUserDisplayName(CASE.INVESTIGATOR_USER_ID)" />
 ```
 

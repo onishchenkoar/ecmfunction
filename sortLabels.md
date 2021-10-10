@@ -2,7 +2,7 @@
 
 ---
 
-Функуция sortLabels() выполнить сортировку набора или массива значений.
+Функция `sortLabels()` выполнить сортировку набора или массива значений.
 
 #### Возвращает:
 
@@ -12,6 +12,5 @@ the original array or collection type.
 
 |  | Имя аргумента | Описание | Тип значения |
 | --- | --- | --- | --- |
-| 1 | collection | Набор объектов, которые нужно отсортировать и вернуть. | Collection, Collection, Collection,
-LabelValueBean[], String[], Comparable[] |
+| 1 | collection | Набор объектов, которые нужно отсортировать и вернуть. | `Collection`, `LabelValueBean[]`, `String[]`, `Comparable[]` |
 

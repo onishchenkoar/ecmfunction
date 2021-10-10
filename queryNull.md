@@ -2,7 +2,9 @@
 
 ---
 
-Возвращает фильтр, который выполняет поиск исходя из того, является ли определенное поле пустым (null) или не пустым (non-null).QueryNull('PARTY.PARTY_CATEGORY_CD', true) предполагает что PARTY.PARTY_CATEGORY_CD IS NULL.QueryNull('PARTY.PARTY_CATEGORY_CD', false) предполагает что PARTY.PARTY_CATEGORY_CD IS NOT NULL.
+Возвращает фильтр, который выполняет поиск исходя из того, является ли определенное поле пустым (`null`) или не пустым (non-null).
+`QueryNull('PARTY.PARTY_CATEGORY_CD', true)` предполагает `PARTY.PARTY_CATEGORY_CD IS NULL`.
+`QueryNull('PARTY.PARTY_CATEGORY_CD', false)` предполагает `PARTY.PARTY_CATEGORY_CD IS NOT NULL`.
 
 #### Возвращает:
 
@@ -12,8 +14,8 @@
 
 |  | Имя аргумента | Описание | Тип значения |
 | --- | --- | --- | --- |
-| 1 | criteria | Уточненное имя поля критерия | String |
-| 2 | nullFlag | Идентифицирует ли фильтр записи, в которых это поле пустое (null) или не пустое (non-null). Этот параметр не обязателен и если он не указан, по умолчанию используется значение true. | boolean |
+| 1 | criteria | Уточненное имя поля критерия | `String` |
+| 2 | nullFlag | Идентифицирует ли фильтр записи, в которых это поле пустое (null) или не пустое (non-null). Этот параметр не обязателен и если он не указан, по умолчанию используется значение true. | `boolean` |
 
 ## Примеры
 
