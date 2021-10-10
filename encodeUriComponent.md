@@ -16,4 +16,4 @@ Returns a URI-encoded string for a specified string expected to be a value of a 
 
 
 
-[На главную](./ecmfunctions/)
+[На главную](./)

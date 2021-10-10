@@ -27,4 +27,4 @@ Datagrid Data
 
 
 
-[На главную](./ecmfunctions/)
+[На главную](./)

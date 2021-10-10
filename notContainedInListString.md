@@ -17,4 +17,4 @@ Takes two comma-separated strings, and returns a List of the values in ListStrin
 
 
 
-[На главную](./ecmfunctions/)
+[На главную](./)

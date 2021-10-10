@@ -40,4 +40,4 @@ PARTY.PARTY_TYPE_CD like ('%HDR%') or PARTY.PARTY_TYPE_CD like ('%GEN%')
 
 
 
-[На главную](./ecmfunctions/)
+[На главную](./)

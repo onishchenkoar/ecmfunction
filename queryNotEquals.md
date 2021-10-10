@@ -33,4 +33,4 @@ PARTY.PARTY_TYPE_CD not in 'HDR'
 
 
 
-[На главную](./ecmfunctions/)
+[На главную](./)

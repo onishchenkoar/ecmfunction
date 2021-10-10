@@ -18,4 +18,4 @@ Takes an array and returns a comma-separated String representation.
 
 
 
-[На главную](./ecmfunctions/)
+[На главную](./)

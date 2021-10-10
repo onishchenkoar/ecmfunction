@@ -24,4 +24,4 @@ C_XMLElement( 'incidentRk', INCIDENT.INCIDENT_RK )
 
 
 
-[На главную](./ecmfunctions/)
+[На главную](./)

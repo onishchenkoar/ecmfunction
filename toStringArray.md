@@ -36,4 +36,4 @@ String Array
 
 
 
-[На главную](./ecmfunctions/)
+[На главную](./)

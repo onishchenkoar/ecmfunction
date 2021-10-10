@@ -27,4 +27,4 @@ Returns list of the values for the rows of the specified keyFieldName column
 
 
 
-[На главную](./ecmfunctions/)
+[На главную](./)

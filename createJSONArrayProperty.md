@@ -26,4 +26,4 @@ C_JSONArray( 'keys', GetSelectedRowKeys('MY_ALERTS_GRID') )
 
 
 
-[На главную](./ecmfunctions/)
+[На главную](./)

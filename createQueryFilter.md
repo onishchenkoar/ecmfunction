@@ -57,4 +57,4 @@ com.sas.solutions.casemgmt.cpb.function.AppQueryFilter
 
 
 
-[На главную](./ecmfunctions/)
+[На главную](./)

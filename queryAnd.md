@@ -33,4 +33,4 @@ PARTY.PARTY_TYPE_CD='HDR' AND (PARTY.PARTY_CATEGORY_CD is not null AND PARTY.PAR
 
 
 
-[На главную](./ecmfunctions/)
+[На главную](./)

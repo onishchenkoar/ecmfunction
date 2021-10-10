@@ -17,4 +17,4 @@ Takes an array of objects and returns an array of strings, substringed using the
 
 
 
-[На главную](./ecmfunctions/)
+[На главную](./)

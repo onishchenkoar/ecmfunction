@@ -22,4 +22,4 @@ Creates an empty ListMap for use in cases when needing to initialize a datastore
 
 
 
-[На главную](./ecmfunctions/)
+[На главную](./)

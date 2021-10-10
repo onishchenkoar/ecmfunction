@@ -17,4 +17,4 @@ Takes a MapList and a specified property, and creates a list containing only the
 
 
 
-[На главную](./ecmfunctions/)
+[На главную](./)

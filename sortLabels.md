@@ -16,4 +16,4 @@ the original array or collection type.
 
 
 
-[На главную](./ecmfunctions/)
+[На главную](./)

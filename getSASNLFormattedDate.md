@@ -26,4 +26,4 @@ String
 
 [На главную](./ecmfunctions/)
 
-[На главную](./ecmfunctions/)
+[На главную](./)

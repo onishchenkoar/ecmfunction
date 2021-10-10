@@ -25,4 +25,4 @@ C_JSONProperty( 'ownerUserLongId', TEMP.USERID )
 
 
 
-[На главную](./ecmfunctions/)
+[На главную](./)

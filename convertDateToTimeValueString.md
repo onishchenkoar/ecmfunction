@@ -16,4 +16,4 @@ Takes a Date object and returns a string representation of the date's `getTime()
 
 
 
-[На главную](./ecmfunctions/)
+[На главную](./)

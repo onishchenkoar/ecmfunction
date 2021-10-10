@@ -33,4 +33,4 @@ INCIDENT.INCIDENT_TYPE_CD='GEN' OR (INCIDENT.INCIDENT_CATEGORY_CD='EXT' OR INCID
 
 
 
-[На главную](./ecmfunctions/)
+[На главную](./)

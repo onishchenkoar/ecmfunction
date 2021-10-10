@@ -61,4 +61,4 @@ GetSearchKeys(
 
 
 
-[На главную](./ecmfunctions/)
+[На главную](./)

@@ -20,4 +20,4 @@ Map<Long, List<com.sas.solutions.casemgmt.domain.EntityRelationshipEntity<com.sa
 
 
 
-[На главную](./ecmfunctions/)
+[На главную](./)

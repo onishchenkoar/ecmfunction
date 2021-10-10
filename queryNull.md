@@ -35,4 +35,4 @@ PARTY.PARTY_CATEGORY_CD IS NOT NULL
 
 
 
-[На главную](./ecmfunctions/)
+[На главную](./)

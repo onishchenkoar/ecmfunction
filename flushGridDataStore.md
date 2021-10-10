@@ -23,4 +23,4 @@ Clears the DataStore of the named DataGrid. Useful in the `<initialize>` block o
 
 
 
-[На главную](./ecmfunctions/)
+[На главную](./)
